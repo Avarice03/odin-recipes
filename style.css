@@ -1,0 +1,30 @@
+
+
+h1 {
+    background-color: black;
+    color: yellow;
+    text-align: center;
+    font-size: 60px;
+}
+
+h2 {
+    background-color: black;
+    color:red;
+    
+}
+
+p,ul,ol {
+    color:aqua;
+    background-color: black;
+    font-family: "Times New Roman", sans-serif;
+
+}
+
+img {
+    height:300px;
+    width: auto;
+}
+
+.Choices{
+    font-size: 48px;
+}
